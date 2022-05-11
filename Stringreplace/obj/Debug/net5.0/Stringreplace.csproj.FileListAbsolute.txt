@@ -1,0 +1,15 @@
+C:\Users\veron\source\repos\StringandArrays\Stringreplace\obj\Debug\net5.0\Stringreplace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veron\source\repos\StringandArrays\Stringreplace\obj\Debug\net5.0\Stringreplace.AssemblyInfoInputs.cache
+C:\Users\veron\source\repos\StringandArrays\Stringreplace\obj\Debug\net5.0\Stringreplace.AssemblyInfo.cs
+C:\Users\veron\source\repos\StringandArrays\Stringreplace\obj\Debug\net5.0\Stringreplace.csproj.CoreCompileInputs.cache
+C:\Users\veron\source\repos\StringandArrays\Stringreplace\bin\Debug\net5.0\Stringreplace.exe
+C:\Users\veron\source\repos\StringandArrays\Stringreplace\bin\Debug\net5.0\Stringreplace.deps.json
+C:\Users\veron\source\repos\StringandArrays\Stringreplace\bin\Debug\net5.0\Stringreplace.runtimeconfig.json
+C:\Users\veron\source\repos\StringandArrays\Stringreplace\bin\Debug\net5.0\Stringreplace.runtimeconfig.dev.json
+C:\Users\veron\source\repos\StringandArrays\Stringreplace\bin\Debug\net5.0\Stringreplace.dll
+C:\Users\veron\source\repos\StringandArrays\Stringreplace\bin\Debug\net5.0\ref\Stringreplace.dll
+C:\Users\veron\source\repos\StringandArrays\Stringreplace\bin\Debug\net5.0\Stringreplace.pdb
+C:\Users\veron\source\repos\StringandArrays\Stringreplace\obj\Debug\net5.0\Stringreplace.dll
+C:\Users\veron\source\repos\StringandArrays\Stringreplace\obj\Debug\net5.0\ref\Stringreplace.dll
+C:\Users\veron\source\repos\StringandArrays\Stringreplace\obj\Debug\net5.0\Stringreplace.pdb
+C:\Users\veron\source\repos\StringandArrays\Stringreplace\obj\Debug\net5.0\Stringreplace.genruntimeconfig.cache

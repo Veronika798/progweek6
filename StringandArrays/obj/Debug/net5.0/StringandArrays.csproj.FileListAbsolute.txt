@@ -1,0 +1,16 @@
+C:\Users\veron\source\repos\StringandArrays\StringandArrays\bin\Debug\net5.0\StringandArrays.exe
+C:\Users\veron\source\repos\StringandArrays\StringandArrays\bin\Debug\net5.0\StringandArrays.deps.json
+C:\Users\veron\source\repos\StringandArrays\StringandArrays\bin\Debug\net5.0\StringandArrays.runtimeconfig.json
+C:\Users\veron\source\repos\StringandArrays\StringandArrays\bin\Debug\net5.0\StringandArrays.runtimeconfig.dev.json
+C:\Users\veron\source\repos\StringandArrays\StringandArrays\bin\Debug\net5.0\StringandArrays.dll
+C:\Users\veron\source\repos\StringandArrays\StringandArrays\bin\Debug\net5.0\ref\StringandArrays.dll
+C:\Users\veron\source\repos\StringandArrays\StringandArrays\bin\Debug\net5.0\StringandArrays.pdb
+C:\Users\veron\source\repos\StringandArrays\StringandArrays\obj\Debug\net5.0\StringandArrays.csproj.AssemblyReference.cache
+C:\Users\veron\source\repos\StringandArrays\StringandArrays\obj\Debug\net5.0\StringandArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veron\source\repos\StringandArrays\StringandArrays\obj\Debug\net5.0\StringandArrays.AssemblyInfoInputs.cache
+C:\Users\veron\source\repos\StringandArrays\StringandArrays\obj\Debug\net5.0\StringandArrays.AssemblyInfo.cs
+C:\Users\veron\source\repos\StringandArrays\StringandArrays\obj\Debug\net5.0\StringandArrays.csproj.CoreCompileInputs.cache
+C:\Users\veron\source\repos\StringandArrays\StringandArrays\obj\Debug\net5.0\StringandArrays.dll
+C:\Users\veron\source\repos\StringandArrays\StringandArrays\obj\Debug\net5.0\ref\StringandArrays.dll
+C:\Users\veron\source\repos\StringandArrays\StringandArrays\obj\Debug\net5.0\StringandArrays.pdb
+C:\Users\veron\source\repos\StringandArrays\StringandArrays\obj\Debug\net5.0\StringandArrays.genruntimeconfig.cache

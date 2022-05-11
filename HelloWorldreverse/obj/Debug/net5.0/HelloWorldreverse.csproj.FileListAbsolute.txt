@@ -1,0 +1,15 @@
+C:\Users\veron\source\repos\StringandArrays\HelloWorldreverse\bin\Debug\net5.0\HelloWorldreverse.exe
+C:\Users\veron\source\repos\StringandArrays\HelloWorldreverse\bin\Debug\net5.0\HelloWorldreverse.deps.json
+C:\Users\veron\source\repos\StringandArrays\HelloWorldreverse\bin\Debug\net5.0\HelloWorldreverse.runtimeconfig.json
+C:\Users\veron\source\repos\StringandArrays\HelloWorldreverse\bin\Debug\net5.0\HelloWorldreverse.runtimeconfig.dev.json
+C:\Users\veron\source\repos\StringandArrays\HelloWorldreverse\bin\Debug\net5.0\HelloWorldreverse.dll
+C:\Users\veron\source\repos\StringandArrays\HelloWorldreverse\bin\Debug\net5.0\ref\HelloWorldreverse.dll
+C:\Users\veron\source\repos\StringandArrays\HelloWorldreverse\bin\Debug\net5.0\HelloWorldreverse.pdb
+C:\Users\veron\source\repos\StringandArrays\HelloWorldreverse\obj\Debug\net5.0\HelloWorldreverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veron\source\repos\StringandArrays\HelloWorldreverse\obj\Debug\net5.0\HelloWorldreverse.AssemblyInfoInputs.cache
+C:\Users\veron\source\repos\StringandArrays\HelloWorldreverse\obj\Debug\net5.0\HelloWorldreverse.AssemblyInfo.cs
+C:\Users\veron\source\repos\StringandArrays\HelloWorldreverse\obj\Debug\net5.0\HelloWorldreverse.csproj.CoreCompileInputs.cache
+C:\Users\veron\source\repos\StringandArrays\HelloWorldreverse\obj\Debug\net5.0\HelloWorldreverse.dll
+C:\Users\veron\source\repos\StringandArrays\HelloWorldreverse\obj\Debug\net5.0\ref\HelloWorldreverse.dll
+C:\Users\veron\source\repos\StringandArrays\HelloWorldreverse\obj\Debug\net5.0\HelloWorldreverse.pdb
+C:\Users\veron\source\repos\StringandArrays\HelloWorldreverse\obj\Debug\net5.0\HelloWorldreverse.genruntimeconfig.cache
